@@ -1,0 +1,6 @@
+name: IdSPAPCEID
+version: '1.0'
+main: com.innocentdev.arena.arenaPlayerCountExpansion.ArenaPlayerCountExpansion
+api-version: '1.21'
+depend: [PlaceholderAPI, StrikePractice]
+author: InnocentDev
